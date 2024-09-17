@@ -18,6 +18,7 @@
 
     "config.rebind-key.title": "Pilih tombol: {{optionName}}",
     "config.rebind-key.simple-instructions": "Tekan tombol yang ingin dipilih",
+    "config.rebind-key.combo-instructions": "Tekan kombinasi tombol yang ingin dipilih",
     "config.rebind-key.no-key": "(Kosong)",
 
 
